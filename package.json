@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "prop-types": "^15.6.2",
-    "tippy.js": "^4.0.0"
+    "tippy.js": "clbn/tippyjs#hideall-on-manual"
   },
   "peerDependencies": {
     "react": ">=16.8",
